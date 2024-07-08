@@ -18,7 +18,7 @@ Hwan-ho Cho, Department of Electronics Engineering, Incheon National University
 ## Figures
 
 ### Figure 1. Cultivation Setting
-![Cultivation setting](https://github.com/Hwan-ho/R-E.23/assets/70419715/2df0289b-e4f2-4389-88fd-d0cf6137c9bd)
+![Cultivation setting](https://github.com/Hwan-ho/R-E.23/assets/70419715/4111c1b2-a64b-49dd-bf2c-640e4539519f)
 
 
 ### Figure 2. Representative Image of Lily, Onion, Stuckyi
