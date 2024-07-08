@@ -9,6 +9,9 @@ Assistant Professor,
 Department of Electronics Engineering, Incheon National University  
 hwanho@inu.ac.kr
 
+## Assistant Teacher
+* Hoyung Kim, Jung-il High School
+
 ## Data Curated by
 
 * Hyein Park, Department of Medical Artificial Intelligence, Konyang University
