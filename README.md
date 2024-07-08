@@ -1,6 +1,6 @@
 # AI-based Soil Acidity Classification Using Plant Cross-Section Microscopic Images
 
-Microscopic images of plants (Lily, Onion, Stuckyi) cross-sections according to pH levels for the project: **"AI-based soil acidity classification using plant cross-section microscopic images"** [Link]()
+Microscopic images of plants (Lily, Onion, Stuckyi) cross-sections according to pH levels for the project: **"AI-based soil acidity classification using plant cross-section microscopic images"** [Link](https://github.com/Hwan-ho/R-E.23/blob/main/Hwanho-Cho.Conference%20of%20Korea%20Artificial-Intelligence%20Convergence%20Technology%20Society.23.pdf)
 
 ## Project Principal Investigator
 
