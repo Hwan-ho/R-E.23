@@ -18,16 +18,18 @@ Hwan-ho Cho, Department of Electronics Engineering, Incheon National University
 ## Figures
 
 ### Figure 1. Cultivation Setting
-![Cultivation Setting](path/to/figure1.png)
+![Cultivation setting](https://github.com/Hwan-ho/R-E.23/assets/70419715/2df0289b-e4f2-4389-88fd-d0cf6137c9bd)
+
 
 ### Figure 2. Representative Image of Lily, Onion, Stuckyi
-![Representative Image](path/to/figure2.png)
+![Representative Image](https://github.com/Hwan-ho/R-E.23/assets/70419715/8e8d6484-f564-4d61-8e5b-16a5e0e5b09e)
+
 
 ### Figure 3. Loss and Accuracy Curve of Lily Model
-![Loss and Accuracy Curve](path/to/figure3.png)
+![Loss and Accuracy Curve](https://github.com/Hwan-ho/R-E.23/assets/70419715/a61724f8-e91f-4775-8d0a-0ce60b925c91)
 
 ### Figure 4. Confusion Matrix of Lily Model
-![Confusion Matrix](path/to/figure4.png)
+![Confusion Matrix](https://github.com/Hwan-ho/R-E.23/assets/70419715/372e734b-5622-4e2e-b556-27cb0d18dbad)
 
 ## Acknowledgement
 
