@@ -17,19 +17,20 @@ Hwan-ho Cho, Department of Electronics Engineering, Incheon National University
 
 ## Figures
 
-### Figure 1. Cultivation Setting
+### Figure 1. Cultivation Setting & Data curation
 ![Cultivation setting](https://github.com/Hwan-ho/R-E.23/assets/70419715/4111c1b2-a64b-49dd-bf2c-640e4539519f)
-
+![DataCuration1](https://github.com/Hwan-ho/R-E.23/assets/70419715/79a9a05a-c986-414a-9b1e-664469c8abca)
+![DataCuration2](https://github.com/Hwan-ho/R-E.23/assets/70419715/5edc20a8-d4c0-4a19-a2f8-18b6b45bae7a)
 
 ### Figure 2. Representative Image of Lily, Onion, Stuckyi
-![Representative Image](https://github.com/Hwan-ho/R-E.23/assets/70419715/8e8d6484-f564-4d61-8e5b-16a5e0e5b09e)
-
+![Representative Image](https://github.com/Hwan-ho/R-E.23/assets/70419715/3c525da5-3c9a-45c6-accb-2682db3628aa)
 
 ### Figure 3. Loss and Accuracy Curve of Lily Model
-![Loss and Accuracy Curve](https://github.com/Hwan-ho/R-E.23/assets/70419715/a61724f8-e91f-4775-8d0a-0ce60b925c91)
+![Loss and Accuracy Curve](https://github.com/Hwan-ho/R-E.23/assets/70419715/26cb0bfe-751c-40b2-b31b-95dcfc08e6a1)
+
 
 ### Figure 4. Confusion Matrix of Lily Model
-![Confusion Matrix](https://github.com/Hwan-ho/R-E.23/assets/70419715/372e734b-5622-4e2e-b556-27cb0d18dbad)
+![Confusion Matrix](https://github.com/Hwan-ho/R-E.23/assets/70419715/3a3d1a87-601f-4443-a102-a5e0154994e3)
 
 ## Acknowledgement
 
